@@ -122,7 +122,7 @@ const AddTaskPage = () => {
                   <Column className="items-start justify-start lg:mb-[304px] xl:mb-[348px] mb-[392px] 3xl:mb-[470px] lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] w-[60%]">
                     <Input
                       className="bg-bluegray_50 placeholder:bg-transparent border-0 font-normal not-italic lg:pl-[27px] xl:pl-[31px] pl-[35px] 3xl:pl-[42px] lg:py-[14px] xl:py-[16px] py-[18.5px] 2xl:py-[18px] 3xl:py-[22px] lg:text-[14px] xl:text-[16px] text-[18px] 3xl:text-[21px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[100%]"
-                      name="Mark as complet"
+                      name="Group329"
                       placeholder={`Mark as completed`}
                     ></Input>
                     <Text className="font-normal lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-black_900 text-left w-[auto]">
@@ -146,7 +146,7 @@ const AddTaskPage = () => {
                     <Text className="font-normal lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-black_900 text-left w-[auto]">{`Description`}</Text>
                     <Input
                       className="placeholder:bg-transparent bg-white_A700 border border-bluegray_100 border-solid font-normal xl:mt-[3px] lg:mt-[3px] mt-[4px] not-italic lg:pb-[30px] xl:pb-[34px] pb-[39px] 3xl:pb-[46px] xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:pt-[12px] xl:pt-[14px] pt-[16px] 3xl:pt-[19px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_200 text-bluegray_200 text-left w-[100%]"
-                      name="Start typing th"
+                      name="Group318"
                       placeholder={`Start typing the details about the task`}
                     ></Input>
                     <Column className="lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] w-[100%]">
@@ -208,7 +208,7 @@ const AddTaskPage = () => {
                           />
                           <Input
                             className="placeholder:bg-transparent bg-transparent border border-gray_200 border-solid font-normal not-italic lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[47px] xl:pr-[53px] pr-[60.65991199999993px] 2xl:pr-[60px] 3xl:pr-[72px] xl:py-[11px] py-[12.5px] 2xl:py-[12px] 3xl:py-[15px] lg:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[100%]"
-                            name="Select an outco"
+                            name="Group336"
                             placeholder={`Select an outcome`}
                           ></Input>
                         </div>
@@ -236,7 +236,7 @@ const AddTaskPage = () => {
                       />
                       <Input
                         className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal not-italic lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[47px] xl:pr-[53px] pr-[60.65991199999993px] 2xl:pr-[60px] 3xl:pr-[72px] xl:py-[11px] py-[12.5px] 2xl:py-[12px] 3xl:py-[15px] lg:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_200 text-bluegray_200 text-left w-[100%]"
-                        name="Link this task "
+                        name="Group332"
                         placeholder={`Link this task to`}
                       ></Input>
                     </div>
@@ -335,7 +335,7 @@ const AddTaskPage = () => {
                         />
                         <Input
                           className="bg-gray_51 placeholder:bg-transparent border border-gray_200 border-solid font-normal not-italic pb-[15.66px] lg:pl-[40px] xl:pl-[46px] pl-[52.01px] 2xl:pl-[52px] 3xl:pl-[62px] pt-[15.67px] lg:py-[12px] xl:py-[13px] 2xl:py-[15px] 3xl:py-[18px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                          name="Add meeting"
+                          name="Group331"
                           placeholder={`Add meeting`}
                         ></Input>
                       </div>
@@ -599,7 +599,7 @@ const AddTaskPage = () => {
                         />
                         <Input
                           className="bg-gray_51 placeholder:bg-transparent border border-gray_200 border-solid font-normal not-italic pb-[11.66px] lg:pl-[40px] xl:pl-[45px] pl-[51.47px] 2xl:pl-[51px] 3xl:pl-[61px] pt-[11.67px] xl:py-[10px] 2xl:py-[11px] 3xl:py-[14px] lg:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                          name="Configure widge"
+                          name="Group330"
                           placeholder={`Configure widgets`}
                         ></Input>
                       </div>

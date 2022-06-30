@@ -61,7 +61,7 @@ const DashboardPage = () => {
               />
               <Input
                 className="placeholder:bg-transparent bg-transparent border border-gray_200 border-solid font-normal not-italic lg:pb-[15px] xl:pb-[17px] pb-[19.5px] 2xl:pb-[19px] 3xl:pb-[23px] lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[56px] xl:pr-[64px] pr-[72.02px] 2xl:pr-[72px] 3xl:pr-[86px] lg:pt-[14px] xl:pt-[16px] pt-[18.5px] 2xl:pt-[18px] 3xl:pt-[22px] lg:text-[14px] xl:text-[16px] text-[18px] 3xl:text-[21px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                name="Sales Dashboard"
+                name="Group173"
                 placeholder={`Sales Dashboard`}
               ></Input>
             </div>
@@ -102,7 +102,7 @@ const DashboardPage = () => {
                     />
                     <Input
                       className="bg-gray_51 placeholder:bg-transparent border border-gray_200 border-solid font-normal not-italic pb-[15.66px] lg:pl-[28px] xl:pl-[32px] pl-[36.01px] 2xl:pl-[36px] 3xl:pl-[43px] pt-[15.67px] lg:py-[12px] xl:py-[13px] 2xl:py-[15px] 3xl:py-[18px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                      name="Add meeting"
+                      name="Group175"
                       placeholder={`Add meeting`}
                     ></Input>
                   </div>
@@ -366,7 +366,7 @@ const DashboardPage = () => {
                     />
                     <Input
                       className="bg-gray_51 placeholder:bg-transparent border border-gray_200 border-solid font-normal not-italic pb-[11.66px] lg:pl-[40px] xl:pl-[45px] pl-[51.47px] 2xl:pl-[51px] 3xl:pl-[61px] pt-[11.67px] xl:py-[10px] 2xl:py-[11px] 3xl:py-[14px] lg:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                      name="Configure widge"
+                      name="Group174"
                       placeholder={`Configure widgets`}
                     ></Input>
                   </div>
@@ -412,7 +412,7 @@ const DashboardPage = () => {
                           />
                           <Input
                             className="placeholder:bg-transparent bg-transparent border-0 border-b-[1px] border-bluegray_100 border-solid font-normal not-italic lg:pb-[37px] xl:pb-[43px] pb-[48.5px] 2xl:pb-[48px] 3xl:pb-[58px] lg:pl-[56px] xl:pl-[64px] pl-[72.00px] 2xl:pl-[72px] 3xl:pl-[86px] pr-[0] lg:pt-[2px] pt-[3.5px] 2xl:pt-[3px] xl:pt-[3px] 3xl:pt-[4px] lg:text-[12px] xl:text-[14px] text-[16px] 3xl:text-[19px] placeholder:text-blue_800 text-blue_800 text-right w-[100%]"
-                            name="Show today"
+                            name="Group176"
                             placeholder={`Show today`}
                           ></Input>
                         </div>

@@ -93,7 +93,7 @@ const ProductsPage = () => {
                     />
                     <Input
                       className="bg-bluegray_900 placeholder:bg-transparent border border-gray_200 border-solid font-normal not-italic lg:pl-[6px] xl:pl-[7px] pl-[8px] 3xl:pl-[9px] lg:pr-[39px] xl:pr-[44px] pr-[50.39998800000004px] 2xl:pr-[50px] 3xl:pr-[60px] lg:py-[10px] xl:py-[11px] py-[13px] 3xl:py-[15px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-left placeholder:text-white_A700 text-white_A700 w-[100%]"
-                      name="Add product"
+                      name="Group92"
                       placeholder={`Add product`}
                     ></Input>
                   </div>
@@ -105,7 +105,7 @@ const ProductsPage = () => {
                     />
                     <Input
                       className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal not-italic lg:pl-[6px] xl:pl-[7px] pl-[8px] 3xl:pl-[9px] lg:pr-[39px] xl:pr-[44px] pr-[50.400049000000045px] 2xl:pr-[50px] 3xl:pr-[60px] lg:py-[10px] xl:py-[11px] py-[13px] 3xl:py-[15px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                      name="Add categories"
+                      name="Group93"
                       placeholder={`Add categories`}
                     ></Input>
                   </div>
@@ -195,7 +195,7 @@ const ProductsPage = () => {
                 </div>
                 <Input
                   className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[100%]"
-                  name="Yes"
+                  name="Group81"
                   placeholder={`Yes`}
                 ></Input>
               </Column>
@@ -210,19 +210,19 @@ const ProductsPage = () => {
                 </div>
                 <Input
                   className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                  name="--"
+                  name="Group83"
                   placeholder={`--`}
                 ></Input>
               </Column>
               <Column className="w-[11%]">
                 <Input
                   className="bg-gray_100 placeholder:bg-transparent border border-gray_200 border-solid font-semibold xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[12px] xl:py-[14px] py-[16px] 3xl:py-[19px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left uppercase w-[100%]"
-                  name="category"
+                  name="Group86"
                   placeholder={`category`}
                 ></Input>
                 <Input
                   className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                  name="Hardware"
+                  name="Group85"
                   placeholder={`Hardware`}
                 ></Input>
               </Column>
@@ -237,7 +237,7 @@ const ProductsPage = () => {
                 </div>
                 <Input
                   className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                  name="A few seconds a"
+                  name="Group87"
                   placeholder={`A few seconds ago`}
                 ></Input>
               </Column>
@@ -252,7 +252,7 @@ const ProductsPage = () => {
                 </div>
                 <Input
                   className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                  name="Jemee Tala"
+                  name="Group89"
                   placeholder={`Jemee Tala`}
                 ></Input>
               </Column>
@@ -265,7 +265,7 @@ const ProductsPage = () => {
           </Column>
           <Input
             className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal not-italic lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:py-[16px] xl:py-[19px] py-[21.5px] 2xl:py-[21px] 3xl:py-[25px] lg:text-[12px] xl:text-[14px] text-[16px] 3xl:text-[19px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-            name="Showing 1-3 of "
+            name="Group78"
             placeholder={`Showing 1-3 of 3`}
           ></Input>
         </Column>

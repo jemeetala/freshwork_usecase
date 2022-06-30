@@ -71,7 +71,7 @@ const AddContactsPage = () => {
                     />
                     <Input
                       className="bg-gray_100 placeholder:bg-transparent border border-indigo_50 border-solid font-normal not-italic lg:pb-[15px] xl:pb-[17px] pb-[19.5px] 2xl:pb-[19px] 3xl:pb-[23px] lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[56px] xl:pr-[64px] pr-[72.02px] 2xl:pr-[72px] 3xl:pr-[86px] lg:pt-[14px] xl:pt-[16px] pt-[18.5px] 2xl:pt-[18px] 3xl:pt-[22px] lg:text-[14px] xl:text-[16px] text-[18px] 3xl:text-[21px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[100%]"
-                      name="Add Contact"
+                      name="Group265"
                       placeholder={`Add Contact`}
                     ></Input>
                   </div>
@@ -94,7 +94,7 @@ const AddContactsPage = () => {
                   </Text>
                   <Input
                     className="placeholder:bg-transparent bg-white_A700 border border-bluegray_100 border-solid font-normal lg:ml-[12px] xl:ml-[14px] ml-[16px] 3xl:ml-[19px] xl:mt-[3px] lg:mt-[3px] mt-[4px] not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] py-[11px] 3xl:py-[13px] lg:py-[8px] xl:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_200 text-bluegray_200 text-left w-[93%]"
-                    name="Enter Last Name"
+                    name="Group259"
                     placeholder={`Enter Last Name`}
                   ></Input>
                 </Column>
@@ -102,7 +102,7 @@ const AddContactsPage = () => {
                   <Text className="font-normal not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-black_900 text-left w-[auto]">{`Mobile Number`}</Text>
                   <Input
                     className="placeholder:bg-transparent bg-transparent border border-gray_200 border-solid font-normal xl:mt-[3px] lg:mt-[3px] mt-[4px] not-italic lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] xl:py-[11px] py-[12.5px] 2xl:py-[12px] 3xl:py-[15px] lg:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_200 text-bluegray_200 text-left w-[100%]"
-                    name="Enter mobile nu"
+                    name="Group260"
                     placeholder={`Enter mobile number`}
                   ></Input>
                 </Column>
@@ -110,7 +110,7 @@ const AddContactsPage = () => {
                   <Text className="font-normal not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-black_900 text-left w-[auto]">{`Email`}</Text>
                   <Input
                     className="placeholder:bg-transparent bg-transparent border border-gray_200 border-solid font-normal xl:mt-[3px] lg:mt-[3px] mt-[4px] not-italic lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] xl:py-[11px] py-[12.5px] 2xl:py-[12px] 3xl:py-[15px] lg:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_200 text-bluegray_200 text-left w-[100%]"
-                    name="Enter mail addr"
+                    name="Group261"
                     placeholder={`Enter mail addres`}
                   ></Input>
                 </Column>
@@ -150,7 +150,7 @@ const AddContactsPage = () => {
                 />
                 <Input
                   className="bg-bluegray_900 placeholder:bg-transparent border border-gray_200 border-solid font-normal not-italic lg:pl-[6px] xl:pl-[7px] pl-[8px] 3xl:pl-[9px] lg:pr-[39px] xl:pr-[44px] pr-[50.39992700000005px] 2xl:pr-[50px] 3xl:pr-[60px] lg:py-[10px] xl:py-[11px] py-[13px] 3xl:py-[15px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-left placeholder:text-white_A700 text-white_A700 w-[100%]"
-                  name="Import Contatct"
+                  name="Group266"
                   placeholder={`Import Contatcts`}
                 ></Input>
               </div>
@@ -291,33 +291,33 @@ const AddContactsPage = () => {
                 />
                 <Input
                   className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro pb-[47px] 3xl:pl-[103px] lg:pl-[66px] xl:pl-[76px] pl-[86.00px] 2xl:pl-[86px] pt-[46.9px] 2xl:pt-[46px] lg:py-[36px] xl:py-[41px] 3xl:py-[56px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[100%]"
-                  name="18"
+                  name="Group273"
                   placeholder={`18`}
                 ></Input>
               </div>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[13%]"
-                name="$0"
+                name="Group197"
                 placeholder={`$0`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[13%]"
-                name="Not Available"
+                name="Group196"
                 placeholder={`Not Available`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[13%]"
-                name="Jemee Tala"
+                name="Group195"
                 placeholder={`Jemee Tala`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-blue_800 text-blue_800 text-left w-[13%]"
-                name="abc@gmail.com"
+                name="Group194"
                 placeholder={`abc@gmail.com`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[10%]"
-                name="Not Available"
+                name="Group193"
                 placeholder={`Not Available`}
               ></Input>
               <Image
@@ -354,33 +354,33 @@ const AddContactsPage = () => {
                 />
                 <Input
                   className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro pb-[46px] 3xl:pl-[108px] lg:pl-[70px] xl:pl-[80px] pl-[90.00px] 2xl:pl-[90px] pt-[45.9px] 2xl:pt-[45px] lg:py-[35px] xl:py-[40px] 3xl:py-[55px] lg:text-[12px] xl:text-[14px] text-[16px] 3xl:text-[19px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[100%]"
-                  name="20"
+                  name="Group274"
                   placeholder={`20`}
                 ></Input>
               </div>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[13%]"
-                name="$0"
+                name="Group204"
                 placeholder={`$0`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[13%]"
-                name="Not Available"
+                name="Group203"
                 placeholder={`Not Available`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[13%]"
-                name="Jemee Tala"
+                name="Group202"
                 placeholder={`Jemee Tala`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-blue_800 text-blue_800 text-left w-[13%]"
-                name="abc@gmail.com"
+                name="Group201"
                 placeholder={`abc@gmail.com`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[10%]"
-                name="Not Available"
+                name="Group200"
                 placeholder={`Not Available`}
               ></Input>
               <Image
@@ -417,33 +417,33 @@ const AddContactsPage = () => {
                 />
                 <Input
                   className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro pb-[47px] 3xl:pl-[103px] lg:pl-[66px] xl:pl-[76px] pl-[86.00px] 2xl:pl-[86px] pt-[46.9px] 2xl:pt-[46px] lg:py-[36px] xl:py-[41px] 3xl:py-[56px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[100%]"
-                  name="21"
+                  name="Group275"
                   placeholder={`21`}
                 ></Input>
               </div>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[13%]"
-                name="$0"
+                name="Group211"
                 placeholder={`$0`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[13%]"
-                name="Not Available"
+                name="Group210"
                 placeholder={`Not Available`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[13%]"
-                name="Jemee Tala"
+                name="Group209"
                 placeholder={`Jemee Tala`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-blue_800 text-blue_800 text-left w-[13%]"
-                name="abc@gmail.com"
+                name="Group208"
                 placeholder={`abc@gmail.com`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[10%]"
-                name="Not Available"
+                name="Group207"
                 placeholder={`Not Available`}
               ></Input>
               <Image
@@ -478,33 +478,33 @@ const AddContactsPage = () => {
                 />
                 <Input
                   className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold pb-[47px] lg:pl-[56px] xl:pl-[64px] pl-[72.00px] 2xl:pl-[72px] 3xl:pl-[86px] pt-[46.9px] 2xl:pt-[46px] lg:py-[36px] xl:py-[41px] 3xl:py-[56px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[100%]"
-                  name="0"
+                  name="Group276"
                   placeholder={`0`}
                 ></Input>
               </div>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[13%]"
-                name="$7000"
+                name="Group218"
                 placeholder={`$7000`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[13%]"
-                name="13 days ago"
+                name="Group217"
                 placeholder={`13 days ago`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[13%]"
-                name="Jemee Tala"
+                name="Group216"
                 placeholder={`Jemee Tala`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-blue_800 text-blue_800 text-left w-[13%]"
-                name="abc@gmail.com"
+                name="Group215"
                 placeholder={`abc@gmail.com`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-blue_800 text-blue_800 text-left w-[10%]"
-                name="1234567890"
+                name="Group214"
                 placeholder={`1234567890`}
               ></Input>
               <Image
@@ -544,33 +544,33 @@ const AddContactsPage = () => {
                 />
                 <Input
                   className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro pb-[47px] 3xl:pl-[103px] lg:pl-[66px] xl:pl-[76px] pl-[86.00px] 2xl:pl-[86px] pt-[46.9px] 2xl:pt-[46px] lg:py-[36px] xl:py-[41px] 3xl:py-[56px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[100%]"
-                  name="21"
+                  name="Group277"
                   placeholder={`21`}
                 ></Input>
               </div>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[13%]"
-                name="$0"
+                name="Group225"
                 placeholder={`$0`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[13%]"
-                name="Not Available"
+                name="Group224"
                 placeholder={`Not Available`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[13%]"
-                name="Jemee Tala"
+                name="Group223"
                 placeholder={`Jemee Tala`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-blue_800 text-blue_800 text-left w-[13%]"
-                name="abc@gmail.com"
+                name="Group222"
                 placeholder={`abc@gmail.com`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[10%]"
-                name="Not Available"
+                name="Group221"
                 placeholder={`Not Available`}
               ></Input>
               <Image
@@ -610,33 +610,33 @@ const AddContactsPage = () => {
                 />
                 <Input
                   className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro pb-[47px] 3xl:pl-[103px] lg:pl-[66px] xl:pl-[76px] pl-[86.00px] 2xl:pl-[86px] pt-[46.9px] 2xl:pt-[46px] lg:py-[36px] xl:py-[41px] 3xl:py-[56px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[100%]"
-                  name="22"
+                  name="Group278"
                   placeholder={`22`}
                 ></Input>
               </div>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[13%]"
-                name="$0"
+                name="Group232"
                 placeholder={`$0`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[13%]"
-                name="Not Available"
+                name="Group231"
                 placeholder={`Not Available`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[13%]"
-                name="Jemee Tala"
+                name="Group230"
                 placeholder={`Jemee Tala`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-blue_800 text-blue_800 text-left w-[13%]"
-                name="abc@gmail.com"
+                name="Group229"
                 placeholder={`abc@gmail.com`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[10%]"
-                name="Not Available"
+                name="Group228"
                 placeholder={`Not Available`}
               ></Input>
               <Image
@@ -676,33 +676,33 @@ const AddContactsPage = () => {
                 />
                 <Input
                   className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro pb-[47px] 3xl:pl-[103px] lg:pl-[66px] xl:pl-[76px] pl-[86.00px] 2xl:pl-[86px] pt-[46.9px] 2xl:pt-[46px] lg:py-[36px] xl:py-[41px] 3xl:py-[56px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[100%]"
-                  name="20"
+                  name="Group279"
                   placeholder={`20`}
                 ></Input>
               </div>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[13%]"
-                name="$0"
+                name="Group239"
                 placeholder={`$0`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[13%]"
-                name="Not Available"
+                name="Group238"
                 placeholder={`Not Available`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[13%]"
-                name="Jemee Tala"
+                name="Group237"
                 placeholder={`Jemee Tala`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-blue_800 text-blue_800 text-left w-[13%]"
-                name="abc@gmail.com"
+                name="Group236"
                 placeholder={`abc@gmail.com`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[10%]"
-                name="Not Available"
+                name="Group235"
                 placeholder={`Not Available`}
               ></Input>
               <Image
@@ -742,33 +742,33 @@ const AddContactsPage = () => {
                 />
                 <Input
                   className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro pb-[47px] 3xl:pl-[103px] lg:pl-[66px] xl:pl-[76px] pl-[86.00px] 2xl:pl-[86px] pt-[46.9px] 2xl:pt-[46px] lg:py-[36px] xl:py-[41px] 3xl:py-[56px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[100%]"
-                  name="18"
+                  name="Group280"
                   placeholder={`18`}
                 ></Input>
               </div>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[13%]"
-                name="$0"
+                name="Group246"
                 placeholder={`$0`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[13%]"
-                name="Not Available"
+                name="Group245"
                 placeholder={`Not Available`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[13%]"
-                name="Jemee Tala"
+                name="Group244"
                 placeholder={`Jemee Tala`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-blue_800 text-blue_800 text-left w-[13%]"
-                name="abc@gmail.com"
+                name="Group243"
                 placeholder={`abc@gmail.com`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[10%]"
-                name="Not Available"
+                name="Group242"
                 placeholder={`Not Available`}
               ></Input>
               <Image
@@ -808,33 +808,33 @@ const AddContactsPage = () => {
                 />
                 <Input
                   className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro pb-[47px] 3xl:pl-[103px] lg:pl-[66px] xl:pl-[76px] pl-[86.00px] 2xl:pl-[86px] pt-[46.9px] 2xl:pt-[46px] lg:py-[36px] xl:py-[41px] 3xl:py-[56px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[100%]"
-                  name="18"
+                  name="Group281"
                   placeholder={`18`}
                 ></Input>
               </div>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-semibold font-sourcesanspro xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[13%]"
-                name="$0"
+                name="Group253"
                 placeholder={`$0`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[13%]"
-                name="Not Available"
+                name="Group252"
                 placeholder={`Not Available`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[13%]"
-                name="Jemee Tala"
+                name="Group251"
                 placeholder={`Jemee Tala`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-blue_800 text-blue_800 text-left w-[13%]"
-                name="abc@gmail.com"
+                name="Group250"
                 placeholder={`abc@gmail.com`}
               ></Input>
               <Input
                 className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal font-sourcesanspro not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:py-[30px] xl:py-[34px] py-[39px] 3xl:py-[46px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[10%]"
-                name="Not Available"
+                name="Group249"
                 placeholder={`Not Available`}
               ></Input>
               <Image

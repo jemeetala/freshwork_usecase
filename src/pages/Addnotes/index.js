@@ -87,13 +87,13 @@ const AddnotesPage = () => {
               <Row className="items-center justify-center lg:ml-[246px] xl:ml-[281px] ml-[317px] 3xl:ml-[380px] w-[56%]">
                 <div className="bg-transparent border-0 w-[11%] input-wrap">
                   <Image
-                    src={"images/img_vector_127.svg"}
+                    src={"images/img_vector_114.svg"}
                     className="absolute z-[1] left-[10.00px] bg-transparent border-0 lg:left-[7px] xl:left-[8px] 2xl:left-[10px] 3xl:left-[12px] my-[auto] inset-y-[0]"
                     alt="Vector"
                   />
                   <Input
                     className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal not-italic lg:pl-[31px] xl:pl-[35px] pl-[40.00px] 2xl:pl-[40px] 3xl:pl-[48px] lg:py-[12px] xl:py-[14px] py-[16.5px] 2xl:py-[16px] 3xl:py-[19px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                    name="Email"
+                    name="Group428"
                     placeholder={`Email`}
                   ></Input>
                 </div>
@@ -178,7 +178,7 @@ const AddnotesPage = () => {
           <Column className="bg-bluegray_50 items-start justify-start lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] mx-[auto] lg:pb-[224px] xl:pb-[256px] pb-[288px] 3xl:pb-[345px] lg:pt-[18px] xl:pt-[21px] pt-[24px] 3xl:pt-[28px] rounded-radius4 w-[99%]">
             <Row className="items-start justify-start lg:ml-[18px] xl:ml-[21px] ml-[24px] 3xl:ml-[28px] w-[52%]">
               <Image
-                src={"images/img_ellipse10_4.png"}
+                src={"images/img_ellipse10_3.png"}
                 className="lg:h-[55px] xl:h-[63px] h-[70px] 2xl:h-[71px] 3xl:h-[85px] object-contain rounded-radius50 w-[auto]"
                 alt="Ellipse10"
               />
@@ -218,7 +218,7 @@ const AddnotesPage = () => {
                 <Row className="items-center justify-evenly mx-[auto] w-[97%]">
                   <Text className="font-semibold my-[1px] lg:text-[12px] xl:text-[14px] text-[16px] 3xl:text-[19px] text-bluegray_400 text-left w-[auto]">{`Customer fit`}</Text>
                   <Image
-                    src={"images/img_infocircleout_3.svg"}
+                    src={"images/img_infocircleout_2.svg"}
                     className="lg:h-[19px] xl:h-[22px] h-[24px] 2xl:h-[25px] 3xl:h-[29px] xl:ml-[3px] lg:ml-[3px] ml-[4px] object-contain lg:w-[18px] xl:w-[21px] w-[24px] 3xl:w-[28px]"
                     alt="infocircleOut"
                   />
@@ -232,7 +232,7 @@ const AddnotesPage = () => {
               <Row className="items-center justify-evenly lg:mb-[35px] xl:mb-[40px] mb-[46px] 3xl:mb-[55px] lg:ml-[18px] xl:ml-[21px] ml-[24px] 3xl:ml-[28px] w-[25%]">
                 <Text className="font-semibold my-[1px] lg:text-[12px] xl:text-[14px] text-[16px] 3xl:text-[19px] text-blue_800 text-left w-[auto]">{`Show scoring factors`}</Text>
                 <Image
-                  src={"images/img_infocircleout_4.svg"}
+                  src={"images/img_infocircleout_3.svg"}
                   className="lg:h-[19px] xl:h-[22px] h-[24px] 2xl:h-[25px] 3xl:h-[29px] xl:ml-[3px] lg:ml-[3px] ml-[4px] object-contain lg:w-[18px] xl:w-[21px] w-[24px] 3xl:w-[28px]"
                   alt="infocircleOut"
                 />

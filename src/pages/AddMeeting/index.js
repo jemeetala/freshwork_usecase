@@ -45,7 +45,7 @@ const AddMeetingPage = () => {
                   />
                   <Input
                     className="placeholder:bg-transparent bg-transparent border border-gray_200 border-solid font-normal not-italic lg:pb-[15px] xl:pb-[17px] pb-[19.5px] 2xl:pb-[19px] 3xl:pb-[23px] lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[56px] xl:pr-[64px] pr-[72.02px] 2xl:pr-[72px] 3xl:pr-[86px] lg:pt-[14px] xl:pt-[16px] pt-[18.5px] 2xl:pt-[18px] 3xl:pt-[22px] lg:text-[14px] xl:text-[16px] text-[18px] 3xl:text-[21px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                    name="Sales Dashboard"
+                    name="Group140"
                     placeholder={`Sales Dashboard`}
                   ></Input>
                 </div>
@@ -136,7 +136,7 @@ const AddMeetingPage = () => {
                       />
                       <Input
                         className="placeholder:bg-transparent bg-white_A700 border border-bluegray_100 border-solid font-normal not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:pr-[44px] xl:pr-[51px] pr-[57.34008800000007px] 2xl:pr-[57px] 3xl:pr-[68px] py-[11px] 3xl:py-[13px] lg:py-[8px] xl:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_200 text-bluegray_200 text-left w-[100%]"
-                        name="Enter title of "
+                        name="Group141"
                         placeholder={`Enter title of meeting`}
                       ></Input>
                     </div>
@@ -222,7 +222,7 @@ const AddMeetingPage = () => {
                       />
                       <Input
                         className="placeholder:bg-transparent bg-transparent border border-gray_200 border-solid font-normal not-italic lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[47px] xl:pr-[53px] pr-[60.65991199999993px] 2xl:pr-[60px] 3xl:pr-[72px] xl:py-[11px] py-[12.5px] 2xl:py-[12px] 3xl:py-[15px] lg:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[100%]"
-                        name="(GMT+00:00) UTC"
+                        name="Group149"
                         placeholder={`(GMT+00:00) UTC`}
                       ></Input>
                     </div>
@@ -234,7 +234,7 @@ const AddMeetingPage = () => {
                       />
                       <Input
                         className="bg-gray_51 placeholder:bg-transparent border border-gray_200 border-solid font-normal not-italic lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[51px] xl:pr-[59px] pr-[66.39998800000004px] 2xl:pr-[66px] 3xl:pr-[79px] lg:py-[10px] xl:py-[11px] py-[13px] 3xl:py-[15px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                        name="Add video confe"
+                        name="Group150"
                         placeholder={`Add video conferencing`}
                       ></Input>
                     </div>
@@ -247,7 +247,7 @@ const AddMeetingPage = () => {
                       />
                       <Input
                         className="placeholder:bg-transparent bg-transparent border border-gray_200 border-solid font-normal not-italic lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[47px] xl:pr-[53px] pr-[60.65991199999993px] 2xl:pr-[60px] 3xl:pr-[72px] xl:py-[11px] py-[12.5px] 2xl:py-[12px] 3xl:py-[15px] lg:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_200 text-bluegray_200 text-left w-[100%]"
-                        name="Enter location "
+                        name="Group151"
                         placeholder={`Enter location meeting`}
                       ></Input>
                     </div>
@@ -256,7 +256,7 @@ const AddMeetingPage = () => {
                         <Text className="font-normal not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-black_900 text-left w-[auto]">{`Description`}</Text>
                         <Input
                           className="placeholder:bg-transparent bg-white_A700 border border-bluegray_100 border-solid font-normal xl:mt-[3px] lg:mt-[3px] mt-[4px] not-italic lg:pb-[30px] xl:pb-[34px] pb-[39px] 3xl:pb-[46px] xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:pt-[12px] xl:pt-[14px] pt-[16px] 3xl:pt-[19px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_200 text-bluegray_200 text-left w-[100%]"
-                          name="Start typing th"
+                          name="Group134"
                           placeholder={`Start typing the details about the meeting`}
                         ></Input>
                       </Column>
@@ -658,7 +658,7 @@ const AddMeetingPage = () => {
                         />
                         <Input
                           className="bg-gray_51 placeholder:bg-transparent border border-gray_200 border-solid font-normal not-italic pb-[11.66px] lg:pl-[40px] xl:pl-[45px] pl-[51.47px] 2xl:pl-[51px] 3xl:pl-[61px] pt-[11.67px] xl:py-[10px] 2xl:py-[11px] 3xl:py-[14px] lg:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                          name="Configure widge"
+                          name="Group143"
                           placeholder={`Configure widgets`}
                         ></Input>
                       </div>
